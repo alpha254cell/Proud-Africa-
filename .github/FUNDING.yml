@@ -1,0 +1,18 @@
+section id="sponsor">
+    <h2 class="section-title">Support Proud Africa</h2>
+    <p>Your sponsorship helps us preserve Kenya’s wildlife and culture.</p>
+    <a href="https://www.paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID" target="_blank" class="sponsor-btn">Sponsor Us</a>
+</section>.sponsor-btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #145214;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 1rem;
+    transition: background-color 0.3s ease;
+}
+.sponsor-btn:hover {
+    background-color: #0b3d0b;
+}
